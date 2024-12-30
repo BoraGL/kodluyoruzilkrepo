@@ -16,3 +16,5 @@ code.
 Pull requestler kabul edilir. Büyük değişiklikler için, lüten önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 ## Licence
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![Screenshot 2024-12-30 213038](https://github.com/user-attachments/assets/02ed914a-5d43-4b35-863f-037d0acd7b1d)
